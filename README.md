@@ -19,5 +19,9 @@ __2. Практика.__ 31.01.2025 16.00-18.00
 
 [Условие](https://github.com/Bakibak/Seeking_Alpha/blob/main/Проект.pdf)
 
+[Шаблон для выполнения задания]()
+
+[Данные](https://github.com/Bakibak/Seeking_Alpha/blob/main/Close.csv)
+
 
 
