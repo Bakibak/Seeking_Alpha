@@ -7,9 +7,9 @@
 
 __1. Теория.__ 17.01.2025 16.00-18.00
 
-[конспект](https://github.com/Bakibak/Seeking_Alpha/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.pdf)
+[Конспект](https://github.com/Bakibak/Seeking_Alpha/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.pdf)
 
-[запись](https://my.mts-link.ru/64661701/2064294388/record-new/672849968/record-file/1216591521)
+[Запись](https://my.mts-link.ru/64661701/2064294388/record-new/672849968/record-file/1216591521)
 
 __2. Практика.__ 31.01.2025 16.00-18.00
 
@@ -19,7 +19,7 @@ __2. Практика.__ 31.01.2025 16.00-18.00
 
 [Условие](https://github.com/Bakibak/Seeking_Alpha/blob/main/Проект.pdf)
 
-[Шаблон для выполнения задания]()
+[Шаблон для выполнения задания](https://github.com/Bakibak/Seeking_Alpha/blob/main/Exam_template.ipynb)
 
 [Данные](https://github.com/Bakibak/Seeking_Alpha/blob/main/Close.csv)
 
