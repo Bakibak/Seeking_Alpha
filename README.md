@@ -2,6 +2,9 @@
 
 Валерия Бакланова vbaklanova@hse.ru
 
+### Оценки
+
+[Ведомость](https://docs.google.com/spreadsheets/d/1faekbxdCmMpMHwJeOyxksSfntu3G_j26OaopuCMRSDY/edit?usp=sharing)
 
 ### Расписание занятий
 
